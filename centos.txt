@@ -1,0 +1,16 @@
+node repo install 
+copy from -- centOS node 
+
+sudo yum install nodejs
+node -v
+npm -v
+
+sudo yum install git
+
+git clone link
+
+ls
+cd folder
+cd folder
+npm i
+node server.js
